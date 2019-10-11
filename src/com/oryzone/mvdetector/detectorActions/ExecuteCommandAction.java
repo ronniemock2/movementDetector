@@ -1,10 +1,8 @@
 package com.oryzone.mvdetector.detectorActions;
 
 import com.oryzone.mvdetector.gui.LogWindow;
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+import java.io.*;
+import java.util.*;
 
 
 /**
